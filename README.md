@@ -1,5 +1,5 @@
 # Introduce
->Hello World!
+`print("Hello World!")`
 
 Love Programing in South Korea
 Start Git 24.06.15 (SAT)
@@ -7,7 +7,7 @@ Start Git 24.06.15 (SAT)
 나의 코드가 인류 발전에 기여가 되는 그날까지!
 
 # Tech Stacks
-- C
++ C
 + C++
 + C#
 + JS
