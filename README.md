@@ -1,6 +1,17 @@
 # Introduce
-<li>Hello World!</li>
-<li>I just start For my own Memory</li>
-<li>I major in Firm_ware</li>
-<li>I have interested in JS, Python, C, C++, C# </li>
-<li>And also Neural Network!</li>
+>Hello World!
+Love Programing in South Korea
+Start Git 24.06.15 (SAT)
+
+# Tech Stacks
++C
++C++
++C#
++JS
++PYTHON
++JAVA
+
+# Interested in
++Firm_ware
++Deep_Learning
++Drop Coffee
