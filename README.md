@@ -15,7 +15,10 @@ Start Git 24.06.15 (SAT)
 + JAVA
 
 # Interested in
-+ Firm_ware
++ Firm_ware -MCU-
 + Deep_Learning
 + Drop Coffee
 + Make Money ~~(PAY DAY)~~
++ OPENCV
++ ROBOT
++ VISION PROGRAMING
